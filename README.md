@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shiv Pratap Singh</h1>
 <h3 align="center">A learning web-developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivposted" alt="shivposted" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/shiv_posted" target="blank"><img src="https://img.shields.io/twitter/follow/shiv_posted?logo=twitter&style=for-the-badge" alt="shiv_posted" /></a> </p>
 
@@ -16,6 +16,10 @@
 - 📫 How to reach me **shivpratap621@gmail.com**
 
 - ⚡ Fun fact **I like CLI more than GUI 😅**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivposted" alt="shivposted" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
