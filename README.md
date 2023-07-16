@@ -20,7 +20,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivposted" alt="shivposted" /></a> </p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivPosted&show_icons=true&theme=radical)](https://github.com/shivPosted)
+<img src="https://github.com/<your-username>/<your-username>/graphs/contributors-graph" alt="Contribution Graph">
 
 
 <h3 align="left">Connect with me:</h3>
