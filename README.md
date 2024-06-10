@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/shiv_posted" target="blank"><img src="https://img.shields.io/twitter/follow/shiv_posted?logo=twitter&style=for-the-badge" alt="shiv_posted" /></a> </p>
 
-- 🔭 I’m currently working on [Omni-Food](https://omnifood-mega-shiv.netlify.app/)
+- 🔭 I’m currently working on [Bankify](https://bankify-shiv.netlify.app/)
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📝 I regularly write articles on [https://shivposted.hashnode.dev/](https://shivposted.hashnode.dev/)
+<!--- 📝 I regularly write articles on [https://shivposted.hashnode.dev/](https://shivposted.hashnode.dev/) -->
 
 - 💬 Ask me about **CSS, Javascript**
 
