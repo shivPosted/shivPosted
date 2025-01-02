@@ -22,9 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shiv_posted" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697881234567/x-icon.png" alt="shiv_posted" height="30" width="40" /></a>
+<a href="https://twitter.com/shiv_posted" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/1690643591twitter-x-logo-png.webp/900px-1690643591twitter-x-logo-png.webp.png?20240130070529" alt="shiv_posted" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shiv pratap singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiv pratap singh" height="30" width="40" /></a>
-<a href="https://hashnode.com/@shivposted" target="blank"><img align="center" src=https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="@shivposted" height="30" width="40" /></a>
+<a href="https://hashnode.com/@shivposted" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="@shivposted" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
